@@ -1,0 +1,15 @@
+.form-control{
+    border-radius: 0px;
+}
+
+
+
+.fa-search{
+    position: relative;
+    right:5vh;
+    margin-top:1.5vh;
+    color:blue;
+}
+body{
+    background-color: aliceblue;
+}
